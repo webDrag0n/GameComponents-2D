@@ -1,0 +1,10 @@
+<Localization lang="en">
+  <P>Bro</P>
+  <S>Sam</S>
+  <J>Jumpo</J>
+  <G>Garry</G>
+  <D>Dashmond</D>
+  <OnApplicationQuit>Are you sure you want to quit the game?</OnApplicationQuit>
+  <OnSettingsClick>We do made a setting scene but we realized there is nothing much to set! So we cancelled it.&#10;If you are curious about that, click "yes" to continue.</OnSettingsClick>
+  <NoSave>You have no exist save files, do you want to start a new game?</NoSave>
+</Localization>

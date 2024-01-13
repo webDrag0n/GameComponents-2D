@@ -1,0 +1,20 @@
+<Localization lang="en">
+  <BeforeGame>
+    <Narration>Our cutest protagonist, the top one otaku☆porter, Bro woke up one day discovered that the world she's familiar with changed quite a lot. &#10;She got out and discovered that there is a mysterious sign over her head written<![CDATA[<b>“Space Bar * X”</b>]]>. &#10;Her boss come in and show her what's going on.</Narration>
+  </BeforeGame>
+  <InGame>
+    <CharacterA id="P" kind="9"><![CDATA[ `(*>﹏<*)′ What's going on? ]]></CharacterA>
+    <CharacterB id="S">Wake up kid. You've got deliveries to make.</CharacterB>
+    <CharacterA id="P" kind="4">But it's just 8 :30 a.m., too ……early……for……getting……up……to……work.</CharacterA>
+    <CharacterA id="P" kind="3"><![CDATA[<size=45>ZZZ~ZZZZZZZZZZZ</size>]]></CharacterA>
+    <CharacterB id="S"><![CDATA[<size=50>Your KPI is the lowest in the whole company! </size>]]>&#10;It's all your fault to drag the company behind Solid Express, sleepy Bro!</CharacterB>
+    <CharacterA id="P" kind="6">Neeeemooooo<![CDATA[ ╮(╯_╰)╭]]></CharacterA>
+    <CharacterA id="P" kind="6">But what the hack is happening there? &#10;The road ahead seems to be intertwined with <![CDATA[<color=blue><i>Gravity Space</i></color> and <color=orange>Dash Space!</color> ]]>&#10;And wait, why there's a strange sign over me?</CharacterA>
+    <CharacterB id="S">I wonder that also. But it's me that can wonder, not you!</CharacterB>
+    <CharacterB id="S"> <![CDATA[<size=50>Get your ass moving now!</size>]]></CharacterB>
+    <CharacterB id="S">In <![CDATA[<color=red>red</color>, press <b>SPACE BAR</b> to jump.]]></CharacterB>
+    <CharacterB id="S">In <![CDATA[<color=blue>blue</color>, press <b>SPACE BAR</b> to change the direction of gravity.]]></CharacterB>
+    <CharacterB id="S">In <![CDATA[<color=orange>orange</color>, press <b>SPACE BAR</b> to dash.]]></CharacterB>
+  </InGame>
+  <AfterGame></AfterGame>
+</Localization>
