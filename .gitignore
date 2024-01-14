@@ -70,3 +70,39 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# --- Kuchinashi's Experiences ---
+# Visual Studio Code cache directory
+.vscode/
+.vsconfig
+
+# Jetbrains Rider
+.idea/
+
+# Unity Plastic SCM
+.plastic/
+ignore.conf
+
+# Large Assets
+/[Aa]ssets/[Aa]rt/
+/[Aa]ssets/[Aa]rt.meta
+/[Aa]ssets/[Ff]onts/
+/[Aa]ssets/[Ff]onts.meta
+/[Aa]ssets/[Rr]esources/
+/[Aa]ssets/[Rr]esources.meta
+/[Aa]ssets/[Uu]nityTechnologies/
+/[Aa]ssets/[Uu]nityTechnologies.meta
+
+# AssetBundles
+/[Aa]ssetBundles/
+/[Aa]ssets/[Ss]treamingAssets
+/[Aa]ssets/[Ss]treamingAssets.meta
+
+# Standard Assets
+/[Aa]ssets/[Ss]tandard Assets
+/[Aa]ssets/[Ss]tandard Assets.meta
+
+# TextMesh Pro
+/[Aa]ssets/[Tt]extMesh Pro
+/[Aa]ssets/[Tt]extMesh Pro.meta
