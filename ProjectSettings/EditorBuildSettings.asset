@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Kuchinashi/ControlScene/ControlScene.unity
+    guid: 118c497afa7949349a5eb653b927118d
+  - enabled: 1
+    path: Assets/Kuchinashi/ControlScene/MainScene.unity
+    guid: 515d2f0ad3eee354097bc75195ed3cc4
   m_configObjects: {}
